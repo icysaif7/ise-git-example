@@ -10,6 +10,7 @@ void vector_function(){
     //  \\swap(vec,vec2);
     vec.push_back(1);
     vec.push_back(2);
+    vec.push_back(10);
     vec.push_back(3);
     vec.insert(vec.begin()+2,5);
 
